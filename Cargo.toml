@@ -1,0 +1,9 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Cameron Dart <camerondart13@gmail.com>"]
+
+[dependencies]
+actix = "0.7"
+actix-web = "0.7"
+futures = "0.1"
